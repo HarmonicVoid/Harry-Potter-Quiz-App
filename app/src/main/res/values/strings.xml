@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PotterQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="title">Potter Quiz</string>
+    <string name="start">START</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+    <string name="version">*Alpha 0.0.1; MARVIN*</string>
+
+    <string-array name="text">
+        <item>Listen...</item>
+        <item>Are you worthy??</item>
+        <item>Until the very end...</item>
+    </string-array>
+
+    <string-array name="text2">
+        <item>Evil...</item>
+        <item>Not worthy</item>
+        <item>Careful...</item>
+    </string-array>
+
+    <string-array name="text3">
+        <item>I solemnly swear that I am up to no good...</item>
+        <item>Dementors nearby</item>
+        <item>You’re a wizard</item>
+    </string-array>
+
+    <string-array name="text4">
+        <item>Help!</item>
+        <item>Voldemort...</item>
+        <item>Azkaban</item>
+    </string-array>
+
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="question_1">The First Character To Die In The Deathly Hallows Part 1 Was Dobby</string>
+    <string name="question_2">Neville Longbottom\'s Greatest Fear Is Snape</string>
+    <string name="question_3">Harry Potter\'s Middle Name Is James</string>
+    <string name="question_4">Igor Karkaroff Put Harry\'s Name In The Goblet Of Fire</string>
+    <string name="question_5">Hermione\'s First Boyfriend Was Cedric Diggory</string>
+    <string name="question_6">Snape\'s Patronus Is A Doe</string>
+    <string name="question_7">Dumbledore\'s Phoenix Is Called Fawkes</string>
+    <string name="question_8">The Basilisk Was One Of Voldermort\'s Horcruxes</string>
+    <string name="question_9">Norbert Was Hagrid\'s Pet Hippogriff.</string>
+    <string name="question_10">Fred And George Gave Harry The Marauder\'s Map</string>
+    <string name="question_11">Fluffy Can Be Put To Sleep With A Harp</string>
+    <string name="question_12">Ron Killed Nagini With The Sword Of Gryffindor</string>
+    <string name="question_13">The True Master Of The Elder Wand Was Voldemort</string>
+    <string name="title_activity_pick_wand">PickWand</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
