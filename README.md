@@ -1,7 +1,6 @@
 # harry-potter-quiz-app 
-*Code located in Master Branch.
 
-<h1 align="center" >Are you worthy to be a wizard?</h1>
+<h1 align="center">Are you worthy to be a wizard?</h1>
 <h2 align="center">Score 10 points or more and you will begin your journey with an item!</h2>
 
 <p align="center" >
